@@ -7,7 +7,7 @@ public:
             ans.push_back(cur);
             return;
         }
-        for(int i = st;i<=n;i++){
+        for(int i = st;i<=n-(k-cur.size())+1;i++){
             cur.push_back(i);
 
             f(i+1,n,k);
