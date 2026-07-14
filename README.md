@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1331-rank-transform-of-an-array](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Backtracking
 |  |
 | ------- |
@@ -58,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+## Math
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
