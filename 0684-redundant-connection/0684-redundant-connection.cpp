@@ -7,12 +7,12 @@ public:
             return u;
         return parent[u] = findparent(parent[u]);
     }
-    void Union(int u, int v) {
+    bool Union(int u, int v) {
         int pu = findparent(u);
         int pv = findparent(v);
 
         if (pu == pv)
-            return;
+            return false;
 
         if (size[pu] < size[pv]) {
             parent[pu] = pv;
@@ -21,7 +21,7 @@ public:
             parent[pv] = pu;
             size[pu] += size[pv];
         }
-        return;
+        return true;
     }
     vector<int> findRedundantConnection(vector<vector<int>>& edges) {
         int n = edges.size();
@@ -35,12 +35,10 @@ public:
             int u = edge[0];
             int v = edge[1];
 
-            if (findparent(u) == findparent(v)) {
+            if(!Union(u, v)){
                 ans = edge;
                 break;
             }
-
-            Union(u, v);
         }
         return ans;
     }
