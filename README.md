@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0733-flood-fill) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0684-redundant-connection) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0684-redundant-connection) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Hash Table
 |  |
