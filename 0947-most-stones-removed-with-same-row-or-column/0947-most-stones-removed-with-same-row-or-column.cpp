@@ -1,3 +1,49 @@
+class Solution {
+public:
+    vector<int> parent, rnk;
+
+    int find(int x) {
+        if (parent[x] != x)
+            parent[x] = find(parent[x]); // path compression
+        return parent[x];
+    }
+
+    void unite(int a, int b) {
+        int ra = find(a), rb = find(b);
+        if (ra == rb) return;
+        // union by rank
+        if (rnk[ra] < rnk[rb]) swap(ra, rb);
+        parent[rb] = ra;
+        if (rnk[ra] == rnk[rb]) rnk[ra]++;
+    }
+
+    int removeStones(vector<vector<int>>& stones) {
+        // Rows: 0..9999, Cols offset by 10000 -> 10000..19999
+        const int OFFSET = 10001;
+        parent.resize(20002);
+        rnk.assign(20002, 0);
+        for (int i = 0; i < 20002; i++) parent[i] = i;
+
+        unordered_set<int> activeNodes; // track which row/col nodes are actually used
+
+        for (auto& st : stones) {
+            int row = st[0];
+            int col = st[1] + OFFSET;
+            unite(row, col);
+            activeNodes.insert(row);
+            activeNodes.insert(col);
+        }
+
+        unordered_set<int> roots;
+        for (int node : activeNodes)
+            roots.insert(find(node));
+
+        int components = roots.size();
+        return (int)stones.size() - components;
+    }
+};
+
+/*
 class DSU {
 public:
     vector<int> parent, size;
@@ -59,3 +105,4 @@ public:
         return n - components;
     }
 };
+*/
