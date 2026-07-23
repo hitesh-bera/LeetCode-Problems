@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0139-word-break) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
