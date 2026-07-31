@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0684-redundant-connection) |
+| [0785-is-graph-bipartite](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
