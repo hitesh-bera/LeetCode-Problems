@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1563-stone-game-v) |
+| [1690-stone-game-vii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1690-stone-game-vii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1563-stone-game-v) |
+| [1690-stone-game-vii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1690-stone-game-vii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1563-stone-game-v) |
+| [1690-stone-game-vii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1690-stone-game-vii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1563-stone-game-v) |
+| [1690-stone-game-vii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1690-stone-game-vii) |
 ## Prefix Sum
 |  |
 | ------- |
