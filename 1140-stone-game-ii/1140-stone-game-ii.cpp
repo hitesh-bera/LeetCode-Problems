@@ -57,7 +57,7 @@ public:
 
                 int maxSum = INT_MIN;
                 for (int x = 1; x <= (2 * m); x++) {
-                    if(i + m > n)break;
+                    //if(i + m > n)break;
                     int curSum = prefix[i + x] - prefix[i];
                     maxSum = max(maxSum, curSum - dp[i + x][max(m, x)]);
                 }
