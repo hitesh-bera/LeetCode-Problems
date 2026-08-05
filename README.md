@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2685-count-the-number-of-complete-components](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Hash Table
 |  |
 | ------- |
