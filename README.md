@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+| [1094-car-pooling](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [1094-car-pooling](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1686-stone-game-vi) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0743-network-delay-time) |
+| [1094-car-pooling](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1686-stone-game-vi) |
 ## Counting Sort
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1854-maximum-population-year](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1854-maximum-population-year) |
