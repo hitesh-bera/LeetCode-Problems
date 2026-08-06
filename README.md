@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2029-stone-game-ix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2381-shifting-letters-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2381-shifting-letters-ii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2848-points-that-intersect-with-cars](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2848-points-that-intersect-with-cars) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0031-next-permutation) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1686-stone-game-vi) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3731-find-missing-elements) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1686-stone-game-vi) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Counting Sort
 |  |
 | ------- |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1686-stone-game-vi](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2029-stone-game-ix) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -271,5 +276,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2381-shifting-letters-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2381-shifting-letters-ii) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2848-points-that-intersect-with-cars](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2848-points-that-intersect-with-cars) |
 <!---LeetCode Topics End-->
