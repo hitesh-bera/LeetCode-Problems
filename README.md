@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1943-describe-the-painting](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1943-describe-the-painting) |
 | [2029-stone-game-ix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2381-shifting-letters-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2381-shifting-letters-ii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1943-describe-the-painting](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1943-describe-the-painting) |
 | [2848-points-that-intersect-with-cars](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2848-points-that-intersect-with-cars) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3731-find-missing-elements) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1686-stone-game-vi) |
+| [1943-describe-the-painting](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1943-describe-the-painting) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1943-describe-the-painting](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1943-describe-the-painting) |
 | [2381-shifting-letters-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2381-shifting-letters-ii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
