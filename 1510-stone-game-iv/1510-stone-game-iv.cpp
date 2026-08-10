@@ -44,6 +44,7 @@ public:
 };
 */
 
+//3. tabulation
 class Solution {
 public:
     bool winnerSquareGame(int num) {
