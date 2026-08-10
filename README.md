@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
@@ -285,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2848-points-that-intersect-with-cars](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2848-points-that-intersect-with-cars) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
