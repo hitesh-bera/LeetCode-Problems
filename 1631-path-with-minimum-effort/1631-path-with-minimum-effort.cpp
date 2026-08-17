@@ -38,9 +38,10 @@ vector<tuple<int,int,int>>, greater<tuple<int,int,int>>>pq;
         return dis[row-1][col-1];
     }
 };
-
-//2. we can solve this using DSU approach with sorted edge list;
 */
+
+/*
+//2. we can solve this using DSU approach with sorted edge list;
 class DSU{
     public:
     vector<int>parent;
@@ -91,7 +92,7 @@ public:
                 if(i + 1 < row){
                     v = (i+1) * col + j;
                     wt = abs(heights[i][j] - heights[i+1][j]);
-                    edges.push_back({wt, u, v}); 
+                    edges.push_back({wt, u, v});
                 }
                 if(j+1 < col){
                     v = i * col + j + 1;
@@ -110,5 +111,67 @@ public:
             }
         }
         return 0;
+    }
+};
+*/
+
+// 3. binary search + BDF or DFS on height difference.
+class Solution {
+public:
+    int row;
+    int col;
+    static constexpr int dr[4] = {1, 0, -1, 0};
+    static constexpr int dc[4] = {0, 1, 0, -1};
+
+    bool isvalid(int d, vector<vector<int>>& heights) {
+        queue<pair<int, int>> q;
+        vector<vector<bool>> vis(row, vector<bool>(col, false));
+        q.push({0, 0});
+        vis[0][0] = true;
+
+        while (!q.empty()) {
+            auto p = q.front();
+            q.pop();
+
+            int r = p.first;
+            int c = p.second;
+
+            for (int k = 0; k < 4; k++) {
+                int nr = r + dr[k];
+                int nc = c + dc[k];
+
+                if (nr >= 0 && nr < row && nc >= 0 && nc < col &&
+                    !vis[nr][nc]) {
+                    int wt = abs(heights[r][c] - heights[nr][nc]);
+                    if (wt <= d) {
+                        if (nr == row - 1 && nc == col - 1)
+                            return true;
+                        q.push({nr, nc});
+                        vis[nr][nc] = true;
+                    }
+                }
+            }
+        }
+        return false;
+    }
+    int minimumEffortPath(vector<vector<int>>& heights) {
+        row = heights.size();
+        col = heights[0].size();
+        if(row == 1 && col == 1)return 0;
+
+        int low = 0;
+        int high = 1e6;
+        int ans = 0;
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            if (isvalid(mid, heights)) {
+                ans = mid;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
+            }
+        }
+        return ans;
     }
 };
