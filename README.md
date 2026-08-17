@@ -312,5 +312,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
