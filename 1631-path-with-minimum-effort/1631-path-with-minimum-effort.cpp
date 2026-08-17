@@ -1,11 +1,14 @@
+/*
+//priority queue approach
 class Solution {
 public:
     int minimumEffortPath(vector<vector<int>>& heights) {
         int row = heights.size();
         int col = heights[0].size();
 
-        vector<vector<int>>dis(row, vector<int>(col, INT_MAX)); //min effort req. to reach (r,c) from (0,0)
-        priority_queue<tuple<int,int,int>, vector<tuple<int,int,int>>, greater<tuple<int,int,int>>>pq;
+        vector<vector<int>>dis(row, vector<int>(col, INT_MAX)); //min effort
+req. to reach (r,c) from (0,0) priority_queue<tuple<int,int,int>,
+vector<tuple<int,int,int>>, greater<tuple<int,int,int>>>pq;
 
         pq.push({0,0,0});
         dis[0][0] = 0;
@@ -33,5 +36,79 @@ public:
             }
         }
         return dis[row-1][col-1];
+    }
+};
+
+//2. we can solve this using DSU approach with sorted edge list;
+*/
+class DSU{
+    public:
+    vector<int>parent;
+    vector<int>size;
+
+    DSU(int n){
+        size.assign(n, 1);
+        parent.resize(n);
+        for(int i=0;i<n;i++)parent[i] = i;
+    }
+
+    int findParent(int u){
+        if(parent[u] == u)return u;
+        return parent[u] = findParent(parent[u]);
+    }
+
+    void unite(int u, int v){ //true if they are in same component
+        int pu = findParent(u);
+        int pv = findParent(v);
+
+        if(pu == pv)return ;
+
+        if(size[pu] > size[pv]){
+            size[pu] += size[pv];
+            parent[pv] = pu;
+        }else{
+            size[pv] += size[pu];
+            parent[pu] = pv;
+        }
+        return;
+    }
+
+    bool isSameComponent(int u, int v){
+        return findParent(u) == findParent(v);
+    }
+};
+class Solution {
+public:
+    int minimumEffortPath(vector<vector<int>>& heights) {
+        int row = heights.size();
+        int col = heights[0].size();
+
+        vector<array<int, 3>>edges;
+        for(int i=0;i<row;i++){
+            for(int j=0;j<col;j++){
+                int u = i*col + j;
+                int v, wt;
+                if(i + 1 < row){
+                    v = (i+1) * col + j;
+                    wt = abs(heights[i][j] - heights[i+1][j]);
+                    edges.push_back({wt, u, v}); 
+                }
+                if(j+1 < col){
+                    v = i * col + j + 1;
+                    wt = abs(heights[i][j] - heights[i][j+1]);
+                    edges.push_back({wt, u, v});
+                }
+            }
+        }
+        sort(edges.begin(), edges.end());
+
+        DSU dsu(row*col);
+        for(const auto [wt, u, v] : edges){
+            dsu.unite(u, v);
+            if(dsu.isSameComponent(0, row*col - 1)){
+                return wt;
+            }
+        }
+        return 0;
     }
 };
