@@ -50,6 +50,7 @@ public:
 };
 */
 
+/*
 // 2. space optimization.
 class Solution {
 public:
@@ -71,6 +72,35 @@ public:
                 cur = cur->next;
             }
             leftMost = leftMost -> left;
+        }
+        return root;
+    }
+};
+*/
+//3. work for any binary tree
+class Solution {
+public:
+    Node* connect(Node* root) {
+        if(root == nullptr)return root;
+
+        Node* curLevelPtr = root;
+
+        while(curLevelPtr != nullptr){ 
+            Node dummy(0);
+            Node* nextLevelPtr = &dummy;
+
+            while(curLevelPtr != nullptr){
+                if(curLevelPtr -> left != nullptr){
+                    nextLevelPtr->next = curLevelPtr -> left;
+                    nextLevelPtr = nextLevelPtr->next;
+                }
+                if(curLevelPtr -> right != nullptr){
+                    nextLevelPtr->next = curLevelPtr -> right;
+                    nextLevelPtr = nextLevelPtr->next;
+                }
+                curLevelPtr = curLevelPtr -> next;
+            }
+            curLevelPtr = dummy.next;
         }
         return root;
     }
