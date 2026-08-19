@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0139-word-break) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1943-describe-the-painting](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1943-describe-the-painting) |
 | [2848-points-that-intersect-with-cars](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2848-points-that-intersect-with-cars) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Topological Sort
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
