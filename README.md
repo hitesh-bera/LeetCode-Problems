@@ -336,4 +336,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
