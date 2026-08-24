@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0743-network-delay-time) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0743-network-delay-time) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
