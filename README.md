@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1943-describe-the-painting) |
 | [2848-points-that-intersect-with-cars](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2848-points-that-intersect-with-cars) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Matrix
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Combinatorics
 |  |
 | ------- |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2029-stone-game-ix) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Recursion
 |  |
 | ------- |
