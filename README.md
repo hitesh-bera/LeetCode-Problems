@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search
 |  |
 | ------- |
