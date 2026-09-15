@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0207-course-schedule) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0542-01-matrix) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -337,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -362,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1872-stone-game-viii) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
