@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0046-permutations) |
 | [0139-word-break](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0835-image-overlap) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0310-minimum-height-trees) |
+| [0542-01-matrix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0684-redundant-connection) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0994-rotting-oranges) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0486-predict-the-winner) |
+| [0542-01-matrix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1406-stone-game-iii) |
