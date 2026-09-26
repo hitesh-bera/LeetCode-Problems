@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1686-stone-game-vi](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1686-stone-game-vi) |
 | [1690-stone-game-vii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1690-stone-game-vii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1854-maximum-population-year](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1854-maximum-population-year) |
 | [1872-stone-game-viii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1872-stone-game-viii) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1943-describe-the-painting](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1943-describe-the-painting) |
 | [2848-points-that-intersect-with-cars](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2848-points-that-intersect-with-cars) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0139-word-break) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1927-sum-game) |
 | [2381-shifting-letters-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2381-shifting-letters-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
