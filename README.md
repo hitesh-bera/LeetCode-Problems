@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1109-corporate-flight-bookings) |
 | [1140-stone-game-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1254-number-of-closed-islands](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1254-number-of-closed-islands](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
