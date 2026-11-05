@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+| [2424-longest-uploaded-prefix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2424-longest-uploaded-prefix) |
 | [2685-count-the-number-of-complete-components](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1943-describe-the-painting](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1943-describe-the-painting) |
+| [2424-longest-uploaded-prefix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2424-longest-uploaded-prefix) |
 | [2848-points-that-intersect-with-cars](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2848-points-that-intersect-with-cars) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1686-stone-game-vi](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1686-stone-game-vi) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2424-longest-uploaded-prefix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2424-longest-uploaded-prefix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2424-longest-uploaded-prefix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2424-longest-uploaded-prefix) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Dijkstra's Algorithm
 |  |
@@ -498,4 +502,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Design
+|  |
+| ------- |
+| [2424-longest-uploaded-prefix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2424-longest-uploaded-prefix) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2424-longest-uploaded-prefix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2424-longest-uploaded-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [2424-longest-uploaded-prefix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2424-longest-uploaded-prefix) |
+## Ordered Set
+|  |
+| ------- |
+| [2424-longest-uploaded-prefix](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2424-longest-uploaded-prefix) |
 <!---LeetCode Topics End-->
