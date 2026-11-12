@@ -11,18 +11,21 @@ public:
 
         for(int i = 1;i < n;i++){
             if(nums[i] < nums[i-1]){
+                inc = max(inc, cnt1);
+                cnt1 = 1;
                 cnt2++;
-            }else{
+            }else if(nums[i] > nums[i-1]){
                 dec = max(dec, cnt2);
                 cnt2 = 1;
-            }
-
-            if(nums[i] > nums[i-1]){
                 cnt1++;
             }else{
                 inc = max(inc, cnt1);
-                cnt1 = 1;
+                dec = max(dec, cnt2);
+                cnt1 =1;
+                cnt2 = 1;
             }
+
+            
         }
         dec = max(dec, cnt2);
         inc = max(inc, cnt1);
