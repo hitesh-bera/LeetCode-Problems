@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1094-car-pooling](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1094-car-pooling) |
 | [1260-shift-2d-grid](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1260-shift-2d-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1927-sum-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2381-shifting-letters-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2381-shifting-letters-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
