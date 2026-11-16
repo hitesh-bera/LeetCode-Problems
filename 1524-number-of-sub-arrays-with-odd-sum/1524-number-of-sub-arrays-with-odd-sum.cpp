@@ -1,9 +1,10 @@
+//since current state only depends on the previous state we can manage extra space by keeping track of variables.
 class Solution {
 public:
     long long mod = 1e9 + 7;
     int numOfSubarrays(vector<int>& arr) {
         int n = arr.size();
-        
+
         int prevOdd = (arr[0] % 2);
         int prevEven = !(arr[0] % 2);
 
@@ -55,34 +56,6 @@ public:
             cnt += (oddEndsAt[i] % mod);
         }
         return cnt % mod;
-    }
-};
-
-*/
-
-/*
-class Solution {
-public:
-    int numOfSubarrays(vector<int>& arr) {
-        int n = arr.size();
-        vector<long long>oddTill(n, 0);
-
-        oddTill[0] = (arr[0] % 2);
-
-        long long totalPrev;
-
-        for(int i = 1;i < n;i++){
-            totalPrev = (1LL * i * (i + 1))/2;
-
-            oddTill[i] = oddTill[i-1];
-
-            if(arr[i] % 2){ //cur num is odd
-                oddTill[i] += 1; //numsber it self as sub array.
-
-            }
-
-        }
-        return oddTill[n-1];
     }
 };
 */
