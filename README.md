@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1927-sum-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2381-shifting-letters-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2381-shifting-letters-ii) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
