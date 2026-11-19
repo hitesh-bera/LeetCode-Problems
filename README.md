@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0139-word-break](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0139-word-break) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0486-predict-the-winner) |
