@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0139-word-break) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0486-predict-the-winner) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0139-word-break) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1094-car-pooling](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1094-car-pooling) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0139-word-break) |
 | [0678-valid-parenthesis-string](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hitesh-bera/LeetCode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
